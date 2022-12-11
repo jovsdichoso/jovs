@@ -1,0 +1,118 @@
+.content {
+  display: flex;
+  color: black;
+}
+
+.content img {
+  margin-right: 10px;
+  display: block;
+
+}
+.jo {
+  width: 80%;
+  margin: auto;
+  background-color: #FAEAB1;
+  margin-top: 100px;
+  color: black;
+  border-radius: 10px;
+  height: 50%;
+
+}
+.mystyle{
+  width: 80%;
+  margin: auto;
+}
+.button {
+  background-color: #C58940;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 15px;
+  margin: 2px 4px;
+  opacity: 0.6;
+  transition: 0.4s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.button:hover {opacity: 1}
+.button1{
+  width: 150px;
+  height: 40px;
+  background-color: #E5BA73;
+  color: black;
+  border-radius: 10px;
+  border: 2px solid #C58940;
+}
+.button1:hover{
+  background-color: #E5BA73;
+  color: white;
+}
+
+body{
+  background-color:#C58940;
+  
+}
+.vie{
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  background-color: #FAEAB1 ;
+  color: black;
+  border-radius: 10px;
+}
+
+.dic{
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  background-color: #FAEAB1 ;
+  color: white;
+  border-radius: 10px;
+}
+
+.formd{
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  background-color: #E5BA73;
+  color: #C58940;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.contact{
+	padding: 40px 100px;
+}
+
+.email{
+	margin-left: 30px;
+}
+
+.textarea{
+	margin-left: 25px;
+}
+
+input{
+	color: black;
+	width: 400px;
+	border-radius: 10px;
+	padding: 15px;
+}
+
+.box1{
+  width: 80%;
+  margin: auto;
+  background-color: #C58940;
+  border-radius: 10px;
+  text-align: center;
+}
+.int{
+  width: 20%;
+  margin: auto;
+  border-radius: 10px;
+  background-color: #E5BA73;
+  cursor: pointer;
+}
